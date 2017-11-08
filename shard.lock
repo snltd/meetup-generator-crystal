@@ -1,0 +1,22 @@
+version: 1.0
+shards:
+  kemal:
+    github: kemalcr/kemal
+    version: 0.21.0
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.4.0
+
+  pathname:
+    github: arcage/crystal-pathname
+    commit: f1ba55ecba256631d772f52ef628c8802955201e
+
+  radix:
+    github: luislavena/radix
+    version: 0.3.8
+
+  slang:
+    github: jeromegn/slang
+    version: 1.7.0
+

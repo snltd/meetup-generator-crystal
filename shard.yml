@@ -1,0 +1,21 @@
+name: meetup_generator
+version: 0.1.0
+
+authors:
+  - Robert Fisher <slackboy@gmail.com>
+
+targets:
+  meetup_generator:
+    main: src/meetup_generator.cr
+
+crystal: 0.23.1
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+  pathname:
+    github: arcage/crystal-pathname
+  slang:
+    github: jeromegn/slang
