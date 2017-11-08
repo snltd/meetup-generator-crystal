@@ -98,7 +98,7 @@ get "/" do
   end
 
   food = m.refreshment
-  render "/home/rob/work/crystal/meetup_generator/views/default.slang"
+  render "./views/default.slang"
 end
 
 Kemal.run
