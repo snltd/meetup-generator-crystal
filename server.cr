@@ -16,7 +16,7 @@ class Meetup
   def load_things
     ret = {} of String => Array(String)
 
-    c = YAML.parse(File.open("./lib/all_the_things.yaml"))
+    c = YAML.parse(File.open("./all_the_things.yaml"))
 
     c.each do |k, v|
       ret[k.to_s] = v.map { |e| e.to_s }

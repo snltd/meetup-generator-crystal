@@ -1,0 +1,789 @@
+---
+
+# These can have -ing or -ed appended
+#
+verb:
+  - Aggregat
+  - API-
+  - Automat
+  - Autoscal
+  - AWS-
+  - Brogramm
+  - Cheff
+  - Cloudstack
+  - Cod
+  - Collect
+  - Config Manag
+  - Continuously Deliver
+  - Continuously Deploy
+  - Containeriz
+  - De-Risk
+  - DDOS
+  - Detun
+  - Dedup
+  - Deliver
+  - Deploy
+  - Disrupt
+  - Distribut
+  - Dockeriz
+  - Dogfood
+  - Downscal
+  - Enabl
+  - Fork
+  - Gamify
+  - Graph
+  - Hack
+  - Hand Craft
+  - Horizontaliz
+  - Hyperconverg
+  - Incubat
+  - Leverag
+  - Measur
+  - Megashard
+  - Microservic
+  - Monitor
+  - Obfuscat
+  - "Open Sourc"
+  - Optimiz
+  - Orchestrat
+  - Pipelin
+  - Planetscal
+  - Puppetiz
+  - Re-cultur
+  - Recod
+  - Refactor
+  - RESTify
+  - Re-imagin
+  - Revolutioniz
+  - Rightsiz
+  - Scal
+  - Shard
+  - Syntax-Colour
+  - Strategiz
+  - Terraform
+  - Transform
+  - Transpil
+  - Trend
+  - Tun
+  - Upscal
+  - "Unit test"
+  - Verticaliz
+  - Virtualiz
+  - Webscal
+
+tech:
+  - Akka
+  - angular.js
+  - Ansible
+  - API Gateway
+  - APIs
+  - Athena
+  - AWS
+  - bacon.js
+  - Berkshelf
+  - BigTable
+  - Blockbridge
+  - Boot2Docker
+  - Bootstrap
+  - Borg
+  - Boto
+  - Bower
+  - Capistrano
+  - Cassandra
+  - CDN
+  - cgroups
+  - CFEngine
+  - Chef
+  - Chef/Puppet
+  - CircleCI
+  - Clojure
+  - Cloud Foundry
+  - CloudFormation
+  - Cloudfront
+  - Cloudstack
+  - CloudTrail
+  - Clusterpoint
+  - CodeBuild
+  - CodeCommit
+  - CodePipeline
+  - CodeStar
+  - Coffeescript
+  - Cognito
+  - Coherence
+  - Consul
+  - CouchDB
+  - Couchbase
+  - CoreOS
+  - Crystal
+  - Cucumber
+  - "curl | sudo bash"
+  - DalmatinerDB
+  - Dapper
+  - Dart
+  - Dataloop
+  - Deis
+  - Device Farm
+  - Django
+  - Docker
+  - Docker Compose
+  - Dockersh
+  - Dokku
+  - Doozer
+  - Dropwizard
+  - DynamoDB
+  - EC2
+  - ECS
+  - EFS
+  - "Edge Rabbit"
+  - "Elastic Beanstalk"
+  - Elasticache
+  - Elasticsearch
+  - Elixir
+  - ember.js
+  - EMR
+  - etcd
+  - ELK
+  - Erlang
+  - Express
+  - Filebeat
+  - Flabbergast
+  - Flapjack
+  - Fleet
+  - Flocker
+  - Flume
+  - fluentd
+  - Flynn.io
+  - Fog
+  - Foodcritic
+  - FoundationDB
+  - functional programming
+  - Ganglia
+  - GCE
+  - Git
+  - Gitflow
+  - Github
+  - Glacier
+  - Glue
+  - Glueflakes
+  - Go
+  - Golang
+  - "Google SRE Book"
+  - Grafana
+  - Grape
+  - Graphene
+  - Graphite
+  - Graylog2
+  - Groovy
+  - GRPC
+  - Grunt
+  - Gulp
+  - Habitat
+  - Hadoop
+  - Hazelcast
+  - Haskell
+  - HBase
+  - Heapster
+  - Heartbeat
+  - Helm
+  - Heroku
+  - Hubot
+  - hyperconvergence
+  - IAM
+  - Immutable Infrastructure
+  - IndexedDB
+  - InfluxDB
+  - IntelliJ
+  - io.js
+  - IO
+  - Jekyll
+  - Jenkins
+  - JRuby
+  - JSON
+  - Juju
+  - Kafka
+  - KairosDB
+  - Kanban
+  - Kibana
+  - Kinesis
+  - kitchen-docker
+  - knife Plugins
+  - Kube
+  - Kubelet
+  - Kubernetes
+  - Lambda
+  - Lex
+  - Lightsail
+  - Linux
+  - Lisp
+  - Logspout
+  - Logstash
+  - LXC
+  - LXD
+  - MAAS
+  - Machine Learning
+  - ManageIQ
+  - Marathon
+  - Marathon-Consul
+  - MEAN
+  - Memchached
+  - Mesos
+  - Mesos-Consul
+  - Mesosphere
+  - Metricbeat
+  - microservices
+  - Minikube
+  - monads
+  - MongoDB
+  - Mountebank
+  - Mutable Infrastructure
+  - Nancy
+  - Nashorn
+  - Neo4J
+  - nginx
+  - node.js
+  - Nomad
+  - npm
+  - NewRelic
+  - NoOps
+  - NoSQL
+  - NuGet
+  - OCaml
+  - OpenShift
+  - OpsWorks
+  - Packer
+  - Packetbeat
+  - Perl
+  - Phoenix
+  - Project Atomic
+  - Prometheus
+  - Protobuf
+  - Puppet
+  - Puppet/Chef
+  - Python
+  - R
+  - RabbitMQ
+  - Racket
+  - Rancher
+  - RancherOS
+  - RDS
+  - ReactJS
+  - Redis
+  - Redshift
+  - Restify
+  - RethinkDB
+  - Riak
+  - Rightscale
+  - Rocket
+  - rkt
+  - RSpec
+  - Ruby
+  - Rust
+  - S3
+  - Salt
+  - SaltStack
+  - Scala
+  - Scalr
+  - Scheme
+  - Scrum
+  - SDN
+  - Sensei
+  - Sensu
+  - Serf
+  - Serverless
+  - SES
+  - Sidekiq
+  - Sinatra
+  - SmartOS
+  - SNS
+  - Solr
+  - SQS
+  - statsd
+  - Sublime Text
+  - Swarm
+  - Sysdig
+  - systemd
+  - Telegraf
+  - Terraform
+  - Test Kitchen
+  - Thrift
+  - TICK stack
+  - Timeseries Database
+  - TokyoTyrant
+  - Toxiproxy
+  - Travis CI
+  - Triton
+  - Ubuntu
+  - unikernel
+  - Vagrant
+  - Velocity
+  - Wavefront
+  - Weave
+  - YAML
+  - YAML front-matter
+  - Yarn
+  - YARN
+  - Zappa
+  - ZeroMQ
+  - ZFS
+  - Zookeeper
+
+service:
+  - ChatOps
+  - Cloud
+  - Containers
+  - DevOps
+  - Downtime
+  - GitOps
+  - Hybrid Cloud
+  - Incident Management
+  - Infrastructure
+  - Metrics
+  - Platform
+  - Public Cloud
+  - Private Cloud
+  - Services
+  - Slack Integration
+  - SRE
+  - WebOps
+
+extreme:
+  - Annihilate
+  - Autoscale
+  - Chaos Monkey
+  - Config-Manage
+  - De-Risk
+  - Destroy
+  - Dockerize
+  - Hybridize
+  - Improve
+  - Limit
+  - Maximize
+  - Minimize
+  - Normalize
+  - Planet-Scale
+  - Reduce
+  - Strategize
+  - Webscale
+  - Wrangle
+
+quantifier:
+  - Agility
+  - Antipatterns
+  - AWS bill
+  - Burn Rate
+  - Compliance
+  - Density
+  - Deployables
+  - DevOps
+  - DevSecOps
+  - Downtime
+  - Enterprise Data Lake
+  - Error Budget
+  - Guerilla User Testing
+  - Hipster Batch Paradigm
+  - Leanness
+  - Innovation Initiatives
+  - MVP
+  - Patterns
+  - Polyglot Persistence
+  - ROI
+  - Security Sandwich
+  - Seed Capital
+  - Synergy
+  - Threat Model
+  - Uptime
+  - VC Appeal
+  - Velocity
+
+time:
+  - Attempts
+  - Days
+  - Hours
+  - Minutes
+  - Seconds
+  - Weeks
+
+food_style:
+  - artisan
+  - Asian
+  - barrista
+  - biodynamic
+  - cave-aged
+  - copper-still
+  - craft
+  - extra-matured
+  - fairtrade
+  - "farmers' market"
+  - fusion
+  - heirloom
+  - heritage
+  - keg-aged
+  - Lebanese
+  - microbrewery
+  - Scandinavian
+  - seasonal
+
+food:
+  - ales
+  - beard yeast
+  - beers
+  - breads
+  - cereal
+  - charcuterie
+  - cheeses
+  - ciders
+  - chutneys
+  - coffee
+  - falafel
+  - gins
+  - grazing boards
+  - hummus
+  - IPAs
+  - lagers
+  - micro-pizza
+  - nonsense
+  - olives
+  - pizza
+  - quinoa
+
+skill_level:
+  - Advanced User
+  - Beginner
+  - CTO
+  - Developer
+  - Full-Stacker
+  - Idiot
+  - n00b
+  - SRE
+  - Webscalr
+  - Wizard
+
+is_not:
+  - ""
+  - not
+
+company:
+  - Amazon
+  - AWS
+  - Etsy
+  - Everyone Else
+  - Facebook
+  - Flickr
+  - Github
+  - Google
+  - Google SREs
+  - Hashicorp
+  - LinkedIn
+  - Netflix
+  - Twitter
+  - Uber
+
+driver:
+  - Anger
+  - Asshole
+  - Big Data
+  - Blog
+  - Bullshit
+  - CV
+  - Data
+  - Datensparsamkeit
+  - Google
+  - HackerNews
+  - Hipster
+  - Hubris
+  - I-Ching
+  - I-Know-Best
+  - Insecurity
+  - IPO
+  - Job-Security
+  - Meetup-Generator
+  - Metric
+  - Naivety
+  - NIH
+  - Overconfidence
+  - Paranoia
+  - Reddit
+  - Reinvention
+  - Resumé
+  - "Someone-Else's-Blog"
+  - Stack Overflow
+  - "Sticker"
+  - Urgency
+  - "Whatever's-New"
+  - What-Everyone-Else-is-Doing
+  - Wheel-Reinvention
+
+adjective:
+  - Artisinal
+  - Batteries-Included
+  - Beautiful
+  - Cloud-Agnostic
+  - Craft
+  - Community-Driven
+  - Community-Focused
+  - End-to-End
+  - Hand-Crafted
+  - Immutable
+  - "On-Premise"
+  - Opinionated
+  - Micro-Serviced
+  - Nano-Serviced
+  - Self-Service
+  - Service-Oriented
+  - Serverful
+  - Serverless
+  - Stateful
+  - Stateless
+  - Soup-to-Nuts
+
+panacea:
+  - Containers
+  - DevOps
+  - DevSecOps
+  - Docker
+  - Golang
+  - "Google SREs"
+  - Kubernetes
+  - Serverless
+  - SREs
+  - The Blockchain
+  - "The Next Version"
+  - Unikernels
+
+template:
+  - "Enabling No-Ops with Virtual %tech%"
+  - "%verb%ed %tech% == #Awesomesauce"
+  - "%verb%ing All of the Things with %tech%"
+  - "I Don't Know Much About %tech% or %tech% But I'm Going to Talk About Them Anyway"
+  - "How %tech% Taught Us What '%verb%ing' Really Means"
+  - "How to %extreme% Your %quantifier% by %is_not% %verb%ing %tech%"
+  - "%tech% for %tech% users, and How to Avoid %verb%ing Your %tech% Layer"
+  - "%verb%ing %tech% with %tech% for %skill_level%s"
+  - "Why %tech% is %is_not% the new %tech%"
+  - "RAND10 Lessons from %verb%ing %verb%ed %tech%"
+  - "How we %verb%ed %tech% with %tech% in RAND100 %time%"
+  - "RAND20 Things You Should %is_not% be Doing with %tech% to Enable %service% as a Service"
+  - "From %tech% n00b to %tech% %verb%ing Jedi in RAND5 %time%"
+  - "Pimp My %tech%. %tech% is the Answer, What's the Question?"
+  - "How We %verb%ed RAND40% of our Infrastructure Overnight with %tech%"
+  - "BANG! And the %tech% is Gone! The Future is %verb%ed %tech%"
+  - "How We Use %tech% to %extreme% the Internet of Things"
+  - "We %verb%ed our %tech%. Mind = Blown"
+  - "%tech% or Die. We're Ready, Are You?"
+  - "When %tech% is not Good Enough, Reach for the %tech%"
+  - "%verb%ed %tech% 15-minute Fishbowl Session"
+  - "Everything You Think You Know About %tech% is Wrong"
+  - "While You Learn, I Earn: Making Shit Up and Blogging it as Fact"
+  - "%quantifier% as Code: Ready for the Revolution?"
+  - "A Complicated Way to do Something Unnecessary Which Does Not Work"
+  - "DevOps Culture: Don't Do it If it's Hard or Boring"
+  - "Something People Have Done Since 198RAND9, but with a New Name"
+  - "How We %verb%ed Our %service% with %tech% FTW!"
+  - "Still Using %tech%? Allow Me to Enlighten You"
+  - "I First Heard about %tech% RAND5 Days Ago, and Now I'm an Expert"
+  - "Fifteen Minutes of Ignorant Hubris"
+  - "Buzzword Blizzard: %tech% + %tech% + %tech% + %tech%"
+  - "How We Do What %company% Do, but on a Tiny Scale, and Wrong"
+  - "EC2 at Scale: RAND40 instances and Counting!"
+  - "DevOps and Objet Trouve: If it's Good Enough to be on Github, it's Good Enough for Production"
+  - "%driver% Driven Development 101"
+  - "I'm All About That Rate: How to Screw Your Client By Building Shit They Don't Need"
+  - "Ticking the Boxes: You Can't Automate All of the Things if You Aren't Using All of the Things"
+  - "How We Moved from Puppet to Chef to Ansible to Salt to CFEngine then Back to Ansible then Chef Again then Briefly Itamae then Packered AMIs then Masterless Puppet then Chef then a Different Chef Setup then Puppet"
+  - "%verb%ing %tech% Makes for Awesome %driver%-driven Infrastructure"
+  - "How a %tech%/%tech% Mash-Up Shaved RAND50 Seconds off Our Deployment Times"
+  - "Containers: or How I Swapped a Simple Packaging Problem for a Complex Orchestration Problem"
+  - "Look at me Mummy, aren't I Clever?"
+  - "%tech% Necromancy for Full-Stack Nirvana"
+  - "Wow Very %tech%. So %tech%. Such %verb%ed"
+  - "I've Got Stickers!"
+  - "How We Made a Really Bad Version of Something Which Already Existed"
+  - "We Started a Shitty Company"
+  - "We Have a DevOps Consultancy and We Don't Know What We're Doing"
+  - "Dockerizing Dockerized Docker with Docker for Docker Users"
+  - "DevOps Tough Guy Bitches about %tech% and Expects You to Admire Him"
+  - "How we Spent RAND8 Months Building Our Own Version of a Service We Could Buy for $6/month"
+  - "How we Spent RAND3 Years Building Our Own Version of a Service We Could Buy for $6/month"
+  - "Thinly Disguised Sales Pitch"
+  - "Roll Your Own Monitoring with %tech%, %tech%, %tech%, %tech%, %tech%, %tech%, %tech%, %tech% and %tech%"
+  - "How This Thing We Built Would Work if it Worked"
+  - "If Heath Robinson Deployed an apt Package"
+  - "We Put %tech% in our %tech%: You Won't Believe What Happened Next"
+  - "RAND10 Things Only a DevOps Understands"
+  - "RAND10 %tech% Secrets %company% Don't Want You to Know"
+  - "Up Your Rate: You're an SRE Now!"
+  - "When You Have More Github Repos than Users"
+  - "Large-Scale %tech% Anti-Patterns Will %extreme% Your %service%"
+  - "Bro, Do You Even %tech%?"
+  - "Beautiful %tech% for Beautiful %service%"
+  - "Real Heroes Use %tech%"
+  - "To Hear Us Talk, You Could almost Think this Stuff is Important"
+  - "Our %adjective% Micro-Framework"
+  - "A %tech% %adjective% %adjective% %adjective% Micro-Framework"
+  - "%adjective% %tech% %adjective% Time-series Micro-Services for Dummies"
+  - "Living for Meetups: I Haven't Done Any Actual Work Since 2013"
+  - "%tech% to %adjective% %service%: Living the Dream"
+  - "10x-ing Your Team: The End of %job_title% %job_title% Culture"
+  - "Vague Soft-Skills Waffle"
+  - "Everything I Know About %tech% I Learned from Star Wars"
+  - "There's %tech% in my %tech%!"
+  - "Repeatedly Saying 'on premise' Without Understanding What it Means"
+  - "'You Have 15 Seconds to Comply' and other '80s Cliches stiched Loosely Together"
+  - "%panacea% Will Fix Everything"
+  - "I Have RAND18 Months' Experience But I Know Everything"
+  - "We Were the First People to Ever Encounter any of these Problems"
+  - "I Worked for Google so I Know Everything"
+  - "Rewriting Most of Kubernetes 101"
+  - "Like, Diversity and Stuff?"
+
+#-------------------------------------------------------------------------
+# This block relates to the names and roles of the people doing the
+# talks
+
+# These are the most common names of the 1990s, according to some
+# stupid website. We have as many female as male. Idealism over
+# realism.
+#
+first_name:
+  - Amanda
+  - Andrew
+  - Ashley
+  - Brandon
+  - Brittany
+  - Christopher
+  - Daniel
+  - David
+  - Elizabeth
+  - Emily
+  - Hannah
+  - Jacob
+  - James
+  - Jennifer
+  - Jessica
+  - John
+  - Joseph
+  - Joshua
+  - Justin
+  - Kayla
+  - Lauren
+  - Matthew
+  - Megan
+  - Michael
+  - Nicholas
+  - Nicole
+  - Rachel
+  - Ryan
+  - Samantha
+  - Sarah
+  - Stephanie
+  - Taylor
+  - Tyler
+  - Zachary
+
+# These are the most common surnames in Britain, according to some
+# other website
+
+last_name:
+  - Smith
+  - Jones
+  - Taylor
+  - Williams
+  - Brown
+  - Davies
+  - Evans
+  - Wilson
+  - Thomas
+  - Roberts
+  - Johnson
+  - Lewis
+  - Walker
+  - Robinson
+  - Wood
+  - Thompson
+  - White
+  - Watson
+  - Jackson
+  - Wright
+
+job_role:
+  - Agile
+  - All of the Things
+  - Automation
+  - Big Data
+  - Chief Technical
+  - Cloud
+  - Cyber
+  - DevOps
+  - DevSecOps
+  - Full Stack
+  - Innovation
+  - Junior DevOps
+  - Open Source
+  - Polyglot Development
+  - Senior
+  - Senior Cloud
+  - Senior DevOps
+  - Technical
+  - Node.js
+  - SRE
+  - WebOps
+
+job_title:
+  - "00 Agent"
+  - "10x"
+  - Advocate
+  - Afficianado
+  - Alchemist
+  - Apostle
+  - Architect
+  - Artisan
+  - Badass
+  - Balrog
+  - Codemonger
+  - Demi-God
+  - Demonologist
+  - DevOpsologist
+  - Dragonslayer
+  - Evangelist
+  - Factotum
+  - Firestarter
+  - Fundamentalist
+  - Genius
+  - Grandmaster
+  - Guru
+  - Hacker
+  - Helicopter Pilot
+  - Imagineer
+  - Innovator
+  - Jedi
+  - Lead
+  - Legend
+  - Magician
+  - Maven
+  - MVP
+  - Necromancer
+  - Neckbeard
+  - Neckbeard without Portfolio
+  - Ninja
+  - Overlord
+  - Pirate
+  - Polyglot
+  - Preacherman
+  - Road Warrior
+  - Rocket Scientist
+  - Rockstar
+  - Samurai
+  - Savant
+  - Science Officer
+  - Scientist
+  - Sensei
+  - Sherpa
+  - Space Cadet
+  - Squadron Leader
+  - Superstar
+  - Technologist
+  - Thought Leader
+  - Visionary
+  - Warlock
+  - Wizard
+  - Wrangler
